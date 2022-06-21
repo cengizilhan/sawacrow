@@ -11,4 +11,4 @@
 </div>
   
   <br>
-  <a href="https://app.daily.dev/sawacrow"><img src="https://api.daily.dev/devcards/a305a4a7281249e7a5c6dc1172a79945.png?r=wol" width="400" alt="sawacrow's Dev Card"/></a>
+  <a href="https://app.daily.dev/sawacrow"><img src="https://api.daily.dev/devcards/a305a4a7281249e7a5c6dc1172a79945.png?r=wol" width="300" alt="sawacrow's Dev Card"/></a>
