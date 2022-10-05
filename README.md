@@ -6,8 +6,8 @@
 </div>
 
 <div align ="center"> 
-  <a href = "mailto:info.cengizilhan@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/sawacrow" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%23333?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:info.cengizilhan@gmail.com">gmail</a> 
+  <a href="https://www.linkedin.com/in/sawacrow" target="_blank">linkedin</a>  
    <a href="https://stackoverflow.com/users/4981179/sawacrow" target="_blank">stackoverflow</a> 
 </div>
   
