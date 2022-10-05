@@ -6,9 +6,9 @@
 </div>
 
 <div align ="center"> 
-  <a href = "mailto:info.cengizilhan@gmail.com">gmail</a> 
-  <a href="https://www.linkedin.com/in/sawacrow" target="_blank">linkedin</a>  
-   <a href="https://stackoverflow.com/users/4981179/sawacrow" target="_blank">stackoverflow</a> 
+  <a href = "mailto:info.cengizilhan@gmail.com">gmail</a>  
+  <a href="https://www.linkedin.com/in/sawacrow" target="_blank">linkedin</a>   
+   <a href="https://stackoverflow.com/users/4981179/sawacrow" target="_blank"> stackoverflow</a>  
 </div>
   
   <br>
